@@ -34,6 +34,21 @@
 *   **📝 Markdown Notes**: Keep detailed notes with rich text formatting.
 *   **👆 Touch ID**: Quick and secure access with biometric authentication.
 
+![screen_shot 2025-12-07 13 08 38](https://github.com/user-attachments/assets/e490a04e-c5fc-460f-b651-51fc39009a69)
+![screen_shot 2025-12-07 13 20 39](https://github.com/user-attachments/assets/0c4c6f8d-f324-4456-9e2c-2b36153c7d2e)
+
+
+
+app drag support
+![keyvault-add](https://github.com/user-attachments/assets/42888938-7090-479a-b806-ac2d76696d7a)
+
+
+
+<img width="503" height="857" alt="keyvault-mulf" src="https://github.com/user-attachments/assets/5a376f81-d42d-42f8-9f36-7339ff90ef78" />
+
+support markdown
+
+
 ### 🚀 Getting Started
 
 1.  Download the latest `.dmg` file from the [Releases](https://github.com/hjm79/keyvault-xcode/releases) page.
