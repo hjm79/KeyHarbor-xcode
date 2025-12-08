@@ -83,6 +83,10 @@ KeyVault is not just a notepad. It is a native macOS application designed to man
 *   **Markdown Notes**: Keep clean records using Markdown syntax (Headers, Lists, Code Blocks) in your notes.
 
 <p align="center">
+<img width="567" height="80" alt="keyvault-spge" src="https://github.com/user-attachments/assets/0a0b6123-90ed-4fab-83ab-9a013683ccf2" />
+</p>
+
+<p align="center">
 <img width="493" height="101" alt="keyvault-autobrew" src="https://github.com/user-attachments/assets/dace7ffc-ea41-4143-8473-60cb2a8f47a1" />
 </p>
 
@@ -162,6 +166,9 @@ KeyVault는 단순한 메모장이 아닙니다. 소프트웨어 라이선스, �
 *   **Homebrew Integration**: 등록된 앱 이름을 기반으로 `brew install --cask <app>` 명령어를 자동으로 생성해 주어, 맥을 포맷하고 다시 세팅할 때 유용합니다.
 *   **Markdown Notes**: 메모장에 마크다운 문법(헤더, 리스트, 코드 블럭)을 사용하여 깔끔하게 기록하세요.
 
+<p align="center">
+<img width="567" height="80" alt="keyvault-spge" src="https://github.com/user-attachments/assets/0a0b6123-90ed-4fab-83ab-9a013683ccf2" />
+</p>
 <p align="center">
 <img width="493" height="101" alt="keyvault-autobrew" src="https://github.com/user-attachments/assets/dace7ffc-ea41-4143-8473-60cb2a8f47a1" />
 </p>
